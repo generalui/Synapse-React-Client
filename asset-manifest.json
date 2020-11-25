@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Synapse-React-Client/static/css/main.723b9e61.chunk.css",
-    "main.js": "/Synapse-React-Client/build/main.c85ea23c.js",
+    "main.css": "/Synapse-React-Client/static/css/main.43d4a8b3.chunk.css",
+    "main.js": "/Synapse-React-Client/build/main.21e0bf76.js",
     "runtime-main.js": "/Synapse-React-Client/build/bundle.80a1e5ed.js",
     "static/css/2.e94d5e4c.chunk.css": "/Synapse-React-Client/static/css/2.e94d5e4c.chunk.css",
     "build/2.e8f7fa4f.js": "/Synapse-React-Client/build/2.e8f7fa4f.js",
@@ -13,10 +13,10 @@
     "build/4.4bf0db7a.js.LICENSE.txt": "/Synapse-React-Client/build/4.4bf0db7a.js.LICENSE.txt",
     "build/5.70bbd278.js.LICENSE.txt": "/Synapse-React-Client/build/5.70bbd278.js.LICENSE.txt",
     "index.html": "/Synapse-React-Client/index.html",
-    "precache-manifest.d61efaba470beee264beeafcc7c60497.js": "/Synapse-React-Client/precache-manifest.d61efaba470beee264beeafcc7c60497.js",
+    "precache-manifest.3b21db0d67b5ab5966d951af98c4c0d5.js": "/Synapse-React-Client/precache-manifest.3b21db0d67b5ab5966d951af98c4c0d5.js",
     "service-worker.js": "/Synapse-React-Client/service-worker.js",
     "static/css/2.e94d5e4c.chunk.css.map": "/Synapse-React-Client/static/css/2.e94d5e4c.chunk.css.map",
-    "static/css/main.723b9e61.chunk.css.map": "/Synapse-React-Client/static/css/main.723b9e61.chunk.css.map",
+    "static/css/main.43d4a8b3.chunk.css.map": "/Synapse-React-Client/static/css/main.43d4a8b3.chunk.css.map",
     "static/media/DNA_Two.svg": "/Synapse-React-Client/static/media/DNA_Two.d8f80972.svg",
     "static/media/Data2.svg": "/Synapse-React-Client/static/media/Data2.1104e430.svg",
     "static/media/account-certified.77d5a352.svg": "/Synapse-React-Client/static/media/account-certified.77d5a352.svg",
@@ -46,7 +46,7 @@
     "build/bundle.80a1e5ed.js",
     "static/css/2.e94d5e4c.chunk.css",
     "build/2.e8f7fa4f.js",
-    "static/css/main.723b9e61.chunk.css",
-    "build/main.c85ea23c.js"
+    "static/css/main.43d4a8b3.chunk.css",
+    "build/main.21e0bf76.js"
   ]
 }
