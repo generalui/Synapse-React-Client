@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Synapse-React-Client/static/css/main.5393df01.chunk.css",
-    "main.js": "/Synapse-React-Client/build/main.0bfa9ed3.js",
+    "main.css": "/Synapse-React-Client/static/css/main.af872fd7.chunk.css",
+    "main.js": "/Synapse-React-Client/build/main.90d6e783.js",
     "runtime-main.js": "/Synapse-React-Client/build/bundle.8f7016b7.js",
     "static/css/2.11be0522.chunk.css": "/Synapse-React-Client/static/css/2.11be0522.chunk.css",
     "build/2.f7cd5c56.js": "/Synapse-React-Client/build/2.f7cd5c56.js",
@@ -13,10 +13,10 @@
     "build/4.3af6116e.js.LICENSE.txt": "/Synapse-React-Client/build/4.3af6116e.js.LICENSE.txt",
     "build/5.383b2523.js.LICENSE.txt": "/Synapse-React-Client/build/5.383b2523.js.LICENSE.txt",
     "index.html": "/Synapse-React-Client/index.html",
-    "precache-manifest.df84ae252c3d454711c83c25e0e95e96.js": "/Synapse-React-Client/precache-manifest.df84ae252c3d454711c83c25e0e95e96.js",
+    "precache-manifest.ea6097a77b7a4bf71de44d1048ba6d47.js": "/Synapse-React-Client/precache-manifest.ea6097a77b7a4bf71de44d1048ba6d47.js",
     "service-worker.js": "/Synapse-React-Client/service-worker.js",
     "static/css/2.11be0522.chunk.css.map": "/Synapse-React-Client/static/css/2.11be0522.chunk.css.map",
-    "static/css/main.5393df01.chunk.css.map": "/Synapse-React-Client/static/css/main.5393df01.chunk.css.map",
+    "static/css/main.af872fd7.chunk.css.map": "/Synapse-React-Client/static/css/main.af872fd7.chunk.css.map",
     "static/media/DNA_Two.svg": "/Synapse-React-Client/static/media/DNA_Two.d8f80972.svg",
     "static/media/Data2.svg": "/Synapse-React-Client/static/media/Data2.1104e430.svg",
     "static/media/account-certified.77d5a352.svg": "/Synapse-React-Client/static/media/account-certified.77d5a352.svg",
@@ -46,7 +46,7 @@
     "build/bundle.8f7016b7.js",
     "static/css/2.11be0522.chunk.css",
     "build/2.f7cd5c56.js",
-    "static/css/main.5393df01.chunk.css",
-    "build/main.0bfa9ed3.js"
+    "static/css/main.af872fd7.chunk.css",
+    "build/main.90d6e783.js"
   ]
 }
