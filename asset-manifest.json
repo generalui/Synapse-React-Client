@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Synapse-React-Client/static/css/main.c530c465.chunk.css",
-    "main.js": "/Synapse-React-Client/build/main.5f55cb1d.js",
-    "runtime-main.js": "/Synapse-React-Client/build/bundle.7ecf3b7b.js",
+    "main.css": "/Synapse-React-Client/static/css/main.e45ed282.chunk.css",
+    "main.js": "/Synapse-React-Client/build/main.cbdc9b51.js",
+    "runtime-main.js": "/Synapse-React-Client/build/bundle.c5e35108.js",
     "static/css/2.11be0522.chunk.css": "/Synapse-React-Client/static/css/2.11be0522.chunk.css",
-    "build/2.d80b9227.js": "/Synapse-React-Client/build/2.d80b9227.js",
-    "build/3.240f9f79.js": "/Synapse-React-Client/build/3.240f9f79.js",
-    "build/4.f2cc4630.js": "/Synapse-React-Client/build/4.f2cc4630.js",
-    "build/5.c5abb1be.js": "/Synapse-React-Client/build/5.c5abb1be.js",
-    "build/2.d80b9227.js.LICENSE.txt": "/Synapse-React-Client/build/2.d80b9227.js.LICENSE.txt",
-    "build/3.240f9f79.js.LICENSE.txt": "/Synapse-React-Client/build/3.240f9f79.js.LICENSE.txt",
-    "build/4.f2cc4630.js.LICENSE.txt": "/Synapse-React-Client/build/4.f2cc4630.js.LICENSE.txt",
-    "build/5.c5abb1be.js.LICENSE.txt": "/Synapse-React-Client/build/5.c5abb1be.js.LICENSE.txt",
+    "build/2.e09e1cb9.js": "/Synapse-React-Client/build/2.e09e1cb9.js",
+    "build/3.fc9a8e3e.js": "/Synapse-React-Client/build/3.fc9a8e3e.js",
+    "build/4.ce5a1a39.js": "/Synapse-React-Client/build/4.ce5a1a39.js",
+    "build/5.65d9c143.js": "/Synapse-React-Client/build/5.65d9c143.js",
+    "build/2.e09e1cb9.js.LICENSE.txt": "/Synapse-React-Client/build/2.e09e1cb9.js.LICENSE.txt",
+    "build/3.fc9a8e3e.js.LICENSE.txt": "/Synapse-React-Client/build/3.fc9a8e3e.js.LICENSE.txt",
+    "build/4.ce5a1a39.js.LICENSE.txt": "/Synapse-React-Client/build/4.ce5a1a39.js.LICENSE.txt",
+    "build/5.65d9c143.js.LICENSE.txt": "/Synapse-React-Client/build/5.65d9c143.js.LICENSE.txt",
     "index.html": "/Synapse-React-Client/index.html",
-    "precache-manifest.9e0d3395bb264fa412aa5cd80c504065.js": "/Synapse-React-Client/precache-manifest.9e0d3395bb264fa412aa5cd80c504065.js",
+    "precache-manifest.477909869f7ee4b78f0fbbdc3c075af5.js": "/Synapse-React-Client/precache-manifest.477909869f7ee4b78f0fbbdc3c075af5.js",
     "service-worker.js": "/Synapse-React-Client/service-worker.js",
     "static/css/2.11be0522.chunk.css.map": "/Synapse-React-Client/static/css/2.11be0522.chunk.css.map",
-    "static/css/main.c530c465.chunk.css.map": "/Synapse-React-Client/static/css/main.c530c465.chunk.css.map",
+    "static/css/main.e45ed282.chunk.css.map": "/Synapse-React-Client/static/css/main.e45ed282.chunk.css.map",
     "static/media/DNA_Two.svg": "/Synapse-React-Client/static/media/DNA_Two.d8f80972.svg",
     "static/media/Data2.svg": "/Synapse-React-Client/static/media/Data2.1104e430.svg",
     "static/media/account-certified.77d5a352.svg": "/Synapse-React-Client/static/media/account-certified.77d5a352.svg",
@@ -43,10 +43,10 @@
     "static/media/subscribe_plus.svg": "/Synapse-React-Client/static/media/subscribe_plus.f7a0ebbd.svg"
   },
   "entrypoints": [
-    "build/bundle.7ecf3b7b.js",
+    "build/bundle.c5e35108.js",
     "static/css/2.11be0522.chunk.css",
-    "build/2.d80b9227.js",
-    "static/css/main.c530c465.chunk.css",
-    "build/main.5f55cb1d.js"
+    "build/2.e09e1cb9.js",
+    "static/css/main.e45ed282.chunk.css",
+    "build/main.cbdc9b51.js"
   ]
 }
