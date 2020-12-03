@@ -1,1 +1,0 @@
-/*! For license information please see 3.399ed319.js.LICENSE.txt */
