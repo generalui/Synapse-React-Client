@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Synapse-React-Client/static/css/main.5771e929.chunk.css",
-    "main.js": "/Synapse-React-Client/build/main.10449cf0.js",
+    "main.js": "/Synapse-React-Client/build/main.e2ca90cf.js",
     "runtime-main.js": "/Synapse-React-Client/build/bundle.2626b566.js",
     "static/css/2.11be0522.chunk.css": "/Synapse-React-Client/static/css/2.11be0522.chunk.css",
-    "build/2.2209a457.js": "/Synapse-React-Client/build/2.2209a457.js",
+    "build/2.c62bcef4.js": "/Synapse-React-Client/build/2.c62bcef4.js",
     "build/3.e88bd84a.js": "/Synapse-React-Client/build/3.e88bd84a.js",
     "build/4.0ae7ae28.js": "/Synapse-React-Client/build/4.0ae7ae28.js",
     "build/5.de691d1c.js": "/Synapse-React-Client/build/5.de691d1c.js",
-    "build/2.2209a457.js.LICENSE.txt": "/Synapse-React-Client/build/2.2209a457.js.LICENSE.txt",
+    "build/2.c62bcef4.js.LICENSE.txt": "/Synapse-React-Client/build/2.c62bcef4.js.LICENSE.txt",
     "build/3.e88bd84a.js.LICENSE.txt": "/Synapse-React-Client/build/3.e88bd84a.js.LICENSE.txt",
     "build/4.0ae7ae28.js.LICENSE.txt": "/Synapse-React-Client/build/4.0ae7ae28.js.LICENSE.txt",
     "build/5.de691d1c.js.LICENSE.txt": "/Synapse-React-Client/build/5.de691d1c.js.LICENSE.txt",
     "index.html": "/Synapse-React-Client/index.html",
-    "precache-manifest.ece6714ef9e3d9bc4cf6b100186b7923.js": "/Synapse-React-Client/precache-manifest.ece6714ef9e3d9bc4cf6b100186b7923.js",
+    "precache-manifest.bafe617dc5db9ac5b7877f7fd1559fef.js": "/Synapse-React-Client/precache-manifest.bafe617dc5db9ac5b7877f7fd1559fef.js",
     "service-worker.js": "/Synapse-React-Client/service-worker.js",
     "static/css/2.11be0522.chunk.css.map": "/Synapse-React-Client/static/css/2.11be0522.chunk.css.map",
     "static/css/main.5771e929.chunk.css.map": "/Synapse-React-Client/static/css/main.5771e929.chunk.css.map",
@@ -54,8 +54,8 @@
   "entrypoints": [
     "build/bundle.2626b566.js",
     "static/css/2.11be0522.chunk.css",
-    "build/2.2209a457.js",
+    "build/2.c62bcef4.js",
     "static/css/main.5771e929.chunk.css",
-    "build/main.10449cf0.js"
+    "build/main.e2ca90cf.js"
   ]
 }
